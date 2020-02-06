@@ -9,4 +9,4 @@ galaxy_info:
     - "Linux"
   galaxy_tags: []
 dependencies:
-  - "https://github.com/mspiez/ansible_role_2.git"
+  - src: https://github.com/mspiez/ansible_role_2.git
