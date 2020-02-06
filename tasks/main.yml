@@ -2,4 +2,4 @@
 # tasks file for ansible_role_1
 - name: "DEBUG"
   debug:
-    msg: "Ansible role 2"
+    msg: "Ansible role 1"
